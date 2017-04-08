@@ -5,7 +5,7 @@ Instalation:
 ----------
 ###1. Download script with:
 ```bash
-wget https://raw.githubusercontent.com/xerrni/rclone_mount/master/rclone_mount.sh
+wget https://github.com/gammelgaard52/rclone_mount/blob/master/rclone_mount.sh
 ```
 ###2. To use it just replace `src=""` and `dest=""` with your paths 
 ```bash
