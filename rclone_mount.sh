@@ -1,6 +1,6 @@
 #!/bin/bash
-src="n:/"
-dest="/home/seedbox/torrents/deluge/mount"
+src="Film:/"
+dest="/home20/gammelgaardmink/Film"
 
 if [[ "$#" == "1"  ]]
 then
